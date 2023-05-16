@@ -87,6 +87,7 @@
                     <navigationItem key="navigationItem" id="bbc-rX-fP0"/>
                     <connections>
                         <outlet property="myTableView" destination="fLd-QA-3zo" id="i4p-oz-yFt"/>
+                        <outlet property="searchHero" destination="hkO-3Z-UdR" id="c78-yq-7az"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
